@@ -4,10 +4,10 @@ padding: 0;
 box-sizing: border-box;
 }
 body{
-font-family: "Poppins", sans-serif;
-}
+font-family: "Poppins", sans-serif;ff0101
+}891717
 header{
-background-color: linear-gradient(#ff0101,#891717);
+background-color: linear-gradient(#891717,#ff0101);
 color: white;
 width: 100%;
 padding: 20px;
