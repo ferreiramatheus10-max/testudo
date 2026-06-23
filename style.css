@@ -7,7 +7,7 @@ body{
 font-family: "Poppins", sans-serif;ff0101
 }891717
 header{
-background-color: linear-gradient(#891717,#ff0101);
+background-image: linear-gradient(#891717,#ff0101 );
 color: white;
 width: 100%;
 padding: 20px;
