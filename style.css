@@ -55,7 +55,7 @@ banner1 img{
 .estudante_titulo{
 padding: 50px;
 text-align: center;
-
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .estudante-nome{
 text-align: center;
