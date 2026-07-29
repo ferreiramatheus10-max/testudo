@@ -80,6 +80,12 @@ padding: 24px 0;
 display: flex;
 justify-content: space-around;
 }
+
+.container-video {
+
+}
+
+
 .escola{
 background-image: linear-gradient(#ff0101,#891717);
 color: white;
