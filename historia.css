@@ -72,6 +72,11 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 
 }
 
+.velhointer {
+
+    justify-content: flex-end;
+}
+
 ul {
   list-style-type: none;
   margin: 0;
