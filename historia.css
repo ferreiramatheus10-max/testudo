@@ -40,6 +40,31 @@ width: 25%;
 padding-right: 30px;
 }
 
+.escola{
+background-image: linear-gradient(#ff0101,#891717);
+color: white;
+display: flex;
+justify-content:center;
+padding: 24px 0;
+text-align:center;
+display:block;
+}
+.escola-titulo{
+padding: 50px;
+text-align: center;
+}
+.logo_rodape{
+height: 180px;
+padding: 12px 0;
+
+}
+
+.link{
+color: #ffffff;
+text-decoration: none;
+}
+
+
 ul {
   list-style-type: none;
   margin: 0;
