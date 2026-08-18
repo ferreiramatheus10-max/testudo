@@ -143,13 +143,3 @@ ul {
     gap: 60px;
     padding: 40px;
 }
-
-.lista-trofeus {
-    list-style: disc;
-    padding-left: 20px;
-    font-size: 22px;
-}
-
-.lista-trofeus li {
-    margin-bottom: 10px;
-}
