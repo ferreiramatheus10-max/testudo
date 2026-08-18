@@ -132,9 +132,17 @@ ul {
   background-color: #8e1616;
 }
 
-ul {
+.lista-trofeus {
+    list-style: none;
+    padding-left: 0;
+    font-size: 27px;
+    display: block;
+    background-color: transparent;
+    border: none;
+}
 
-    font-size: 20px;
+.lista-trofeus li {
+    margin-bottom: 10px;
 }
 
 .historia-container {
